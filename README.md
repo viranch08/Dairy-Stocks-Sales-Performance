@@ -7,7 +7,6 @@ This Power BI dashboard provides a comprehensive overview of dairy product stock
 ## 📁 Dataset Information
 
 - **File Name**: `dairy_dataset.csv`
-- **Data Size**: ~1.4 million rows
 - **Key Fields**:
   - Product Name (Milk, Curd, Butter, etc.)
   - Brand
