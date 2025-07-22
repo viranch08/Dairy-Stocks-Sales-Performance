@@ -76,7 +76,7 @@ This Power BI dashboard provides a comprehensive overview of dairy product stock
 ## 📄 Author
 
 **Viranch Dadheech**  
-🔗 linkedin.com/in/viranch-dadheech08 | 📬 viranchdadheech9@gmail.com  
+🔗 [linkedin.com/in/viranch-dadheech08 ]| 📬 viranchdadheech9@gmail.com  
 
 ---
 
